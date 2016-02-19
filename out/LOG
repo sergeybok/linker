@@ -1,0 +1,8 @@
+################### input-18##################
+###    Warning Diff:    .....
+###    Code/Error Diff: .....
+1c1
+< Parse Error line 3 offset 1: SYM_EXPECTED
+---
+> Parse Error line 1 offset 3: SYM_EXPECTED
+
